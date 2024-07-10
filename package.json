@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SvetlanaPolunina/hello-word/issues"
   },
-  "homepage": "https://github.com/SvetlanaPolunina/hello-word#readme"
+  "homepage": "https://github.com/SvetlanaPolunina/hello-word#readme",
+  "devDependencies": {
+    "prettier": "^3.3.2"
+  }
 }
